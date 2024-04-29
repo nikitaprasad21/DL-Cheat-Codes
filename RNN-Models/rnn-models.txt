@@ -1,0 +1,6 @@
+Summary of RNNs, LSTMs, GRUs, and deep RNNs in one line each:
+
+* Recurrent Neural Networks (RNNs): Basic neural network architecture with connections between units forming directed cycles, suitable for sequential data processing.
+* Long Short-Term Memory (LSTM) Networks: RNN architecture with specialized memory cells and gating mechanisms to capture long-term dependencies more effectively.
+* Gated Recurrent Units (GRUs): Simplified RNN variant with fewer parameters than LSTMs, featuring update and reset gates to control information flow.
+* Deep Recurrent Neural Networks (RNNs): Extension of RNN architecture with multiple recurrent layers stacked hierarchically, allowing for learning complex hierarchical representations of sequential data.
