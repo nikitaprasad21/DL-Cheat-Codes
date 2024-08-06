@@ -1,1 +1,0 @@
-Artificial Neural Networks (ANN) are algorithms based on brain function and are used to model complicated patterns and forecast issues.
